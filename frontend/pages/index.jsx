@@ -426,7 +426,7 @@ export default function Home() {
           }
         </div>
         <div>
-          <img className={styles.image} src="/nft-zone.jpg" />
+          <img className={styles.image} src="/nft-zone.png" />
         </div>
       </div>
 
