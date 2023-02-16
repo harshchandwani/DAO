@@ -1,10 +1,15 @@
 # This is my project title
 
-This sentence describes what my project is about summarized.
+DAO stands for Decentralized Autonomous Organization
+
+You want to allow your NFT holders to create and vote on proposals to use that ETH for purchasing other NFTs from an NFT marketplace, and speculate on price. Maybe in the future when you sell the NFT back, you split the profits among all members of the DAO.
 
 ## More Details
 
-I can explain how my project works here with different topics.
+To be able to purchase NFTs automatically when a proposal is passed, you need an on-chain NFT marketplace that you can call a purchase() function on.
+There exist a lot of NFT marketplaces out there, but to avoid overcomplicating things, we will create a simplified fake NFT marketplace as the focus is on the DAO.
+We will also make the actual DAO smart contract using Hardhat.
+We will make the website using Next.js to allow users to create and vote on proposals
 
 ## Upcoming
 
@@ -19,7 +24,4 @@ Feel free to contribute to this project to make it better!
 
 This project has an MIT License.
 
-## Made by love
-
-- [StarterTemplates](https://twitter.com/startertemp)
-- [LearnWeb3DAO](https://learnweb3.io)
+## Made with love by Noobsters
